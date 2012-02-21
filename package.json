@@ -1,0 +1,27 @@
+{
+  "name": "crane-amqp",
+  "version": "0.0.0",
+  "description": "AMQP adapter for Crane.",
+  "author": { "name": "Jared Hanson", "email": "jaredhanson@gmail.com", "url": "http://www.jaredhanson.net/" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/crane-amqp.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jaredhanson/crane-amqp/issues"
+  },
+  "main": "./lib/crane-amqp",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "amqp": "0.1.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT" 
+  } ],
+  "keywords": ["crane", "amqp", "queue", "job", "work", "worker", "scheduler"]
+}
