@@ -1,9 +1,9 @@
 # crane-amqp
 
-[![Build](https://travis-ci.org/jaredhanson/crane.png)](https://travis-ci.org/jaredhanson/crane)
-[![Coverage](https://coveralls.io/repos/jaredhanson/crane/badge.png)](https://coveralls.io/r/jaredhanson/crane)
-[![Quality](https://codeclimate.com/github/jaredhanson/crane.png)](https://codeclimate.com/github/jaredhanson/crane)
-[![Dependencies](https://david-dm.org/jaredhanson/crane.png)](https://david-dm.org/jaredhanson/crane)
+[![Build](https://travis-ci.org/jaredhanson/crane-amqp.png)](https://travis-ci.org/jaredhanson/crane-amqp)
+[![Coverage](https://coveralls.io/repos/jaredhanson/crane-amqp/badge.png)](https://coveralls.io/r/jaredhanson/crane-amqp)
+[![Quality](https://codeclimate.com/github/jaredhanson/crane-amqp.png)](https://codeclimate.com/github/jaredhanson/crane-amqp)
+[![Dependencies](https://david-dm.org/jaredhanson/crane-amqp.png)](https://david-dm.org/jaredhanson/crane-amqp)
 [![Tips](http://img.shields.io/gittip/jaredhanson.png)](https://www.gittip.com/jaredhanson/)
 
 
