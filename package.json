@@ -1,6 +1,6 @@
 {
   "name": "crane-amqp",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "AMQP adapter for Crane.",
   "keywords": [
     "crane",
@@ -10,7 +10,8 @@
     "job",
     "task",
     "work",
-    "worker"
+    "worker",
+    "rabbitmq"
   ],
   "author": {
     "name": "Jared Hanson",
