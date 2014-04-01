@@ -30,7 +30,7 @@
       "url": "http://www.opensource.org/licenses/MIT"
     }
   ],
-  "main": "./lib/crane-amqp",
+  "main": "./lib",
   "dependencies": {
     "amqp": "0.1.x",
     "debug": "~0.7.4"
