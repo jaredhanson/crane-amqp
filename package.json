@@ -1,6 +1,6 @@
 {
   "name": "crane-amqp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AMQP adapter for Crane.",
   "keywords": [
     "crane",
