@@ -13,4 +13,12 @@ describe('Connection', function() {
     expect(Connection).to.be.a('function');
   });
   
+  describe('#consume', function() {
+    
+    describe('successfully consuming a queue', function() {
+      
+    });
+    
+  });
+  
 });
