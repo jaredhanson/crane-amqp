@@ -4,6 +4,7 @@ var amqp = require('..');
 
 describe('crane-amqp', function() {
   
+  /*
   it('should export functions', function() {
     expect(amqp.createBroker).to.be.a('function');
   });
@@ -11,8 +12,9 @@ describe('crane-amqp', function() {
   it('should export constructors', function() {
     expect(amqp.Broker).to.be.a('function');
   });
+  */
   
-  describe('#createBroker', function() {
+  describe.skip('#createBroker', function() {
     
     it('should create broker without message listener', function() {
       var broker = amqp.createBroker();
