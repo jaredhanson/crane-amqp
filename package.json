@@ -34,7 +34,8 @@
   "main": "./lib",
   "dependencies": {
     "amqp": "0.2.x",
-    "debug": "~0.7.4"
+    "debug": "3.x.x",
+    "uid": "0.0.2"
   },
   "devDependencies": {
     "mocha": "1.x.x",
